@@ -15,7 +15,7 @@ function longestCommonPrefix(strs) {
     if (prefix === "") return "";
   }
 
-  // return prefix;
+  return prefix;
 }
 
 // Example usage:
