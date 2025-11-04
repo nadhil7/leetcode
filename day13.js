@@ -3,4 +3,4 @@ var containsDuplicate = function (nums) {
     return newobj.size!==nums.length
 };
 const nums = [1, 2, 3, 4, 5, 5];
-console.log(containsDuplicate(nums))
+// console.log(containsDuplicate(nums))
