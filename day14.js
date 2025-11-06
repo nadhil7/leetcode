@@ -5,4 +5,4 @@ var getSum = function(a, b) {
         return getSum(a ^ b, (a & b) << 1)
     }
 };   
-// console.log(getSum(9,6));
+console.log(getSum(9,6));
