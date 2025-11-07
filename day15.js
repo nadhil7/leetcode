@@ -11,6 +11,6 @@ function nextGreatestLetter(letters, target) {
     }
     return letters[left % letters.length];
 }
-const letters = ["c", "f", "j"];
-const target = "c"
+// const letters = ["c", "f", "j"];
+// const target = "c"
 console.log(nextGreatestLetter(letters, target))
