@@ -15,5 +15,5 @@ var plusOne = function (digits) {
 
     return answer
 };
-// const digits = [1, 2, 3, 4, 5, 6, 7, 8, 9, 1, 2, 3, 4, 5, 6, 7, 8, 8, 12, 3, 4];
+const digits = [1, 2, 3, 4, 5, 6, 7, 8, 9, 1, 2, 3, 4, 5, 6, 7, 8, 8, 12, 3, 4];
 console.log(plusOne(digits))
